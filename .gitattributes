@@ -1,0 +1,6 @@
+img/dos3.img filter=lfs diff=lfs merge=lfs -text
+img/dos5.img filter=lfs diff=lfs merge=lfs -text
+img/dos5-beforepatch.img filter=lfs diff=lfs merge=lfs -text
+img/dos5-patched.img filter=lfs diff=lfs merge=lfs -text
+img/dos5-recovered.img filter=lfs diff=lfs merge=lfs -text
+msdos500-patched.img filter=lfs diff=lfs merge=lfs -text
