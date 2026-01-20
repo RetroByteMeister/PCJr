@@ -1,4 +1,4 @@
-| ![IBM PCJr from wikimedia](https://upload.wikimedia.org/wikipedia/commons/9/9f/Ibm_pcjr_with_display.jpg?width=100)  | ![Retro Byte Meister Logo](https://retrobytemeister.com/cdn/shop/files/retrobytemeister_583bf729-68c3-4c84-9ec5-2905dba2858f.jpg?width=800&v=1755529210) | ![IBM PCJr inside from wikimedia](https://upload.wikimedia.org/wikipedia/commons/6/63/IBM_PCB_Jr_Internal.jpg?width=100)|
+| ![IBM PCJr from wikimedia](https://upload.wikimedia.org/wikipedia/commons/9/9f/Ibm_pcjr_with_display.jpg)  | ![Retro Byte Meister Logo](https://retrobytemeister.com/cdn/shop/files/retrobytemeister_583bf729-68c3-4c84-9ec5-2905dba2858f.jpg) | ![IBM PCJr inside from wikimedia](https://upload.wikimedia.org/wikipedia/commons/6/63/IBM_PCB_Jr_Internal.jpg?width=100px)|
 | ------------- | ------------- | ------------- |
 
 # PCJr MS-DOS 5.0 Patching
