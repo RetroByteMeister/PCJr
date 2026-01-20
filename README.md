@@ -1,7 +1,7 @@
-| ![IBM PCJr from wikimedia](https://upload.wikimedia.org/wikipedia/commons/9/9f/Ibm_pcjr_with_display.jpg)  | ![Retro Byte Meister Logo](https://retrobytemeister.com/cdn/shop/files/retrobytemeister_583bf729-68c3-4c84-9ec5-2905dba2858f.jpg) | ![IBM PCJr inside from wikimedia](https://upload.wikimedia.org/wikipedia/commons/6/63/IBM_PCB_Jr_Internal.jpg?width=100px)|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Ibm_pcjr_with_display.jpg" alt="IBM PCJr from wikimedia" height="200" /> | ![Retro Byte Meister Logo](https://retrobytemeister.com/cdn/shop/files/retrobytemeister_583bf729-68c3-4c84-9ec5-2905dba2858f.jpg?width=200) | <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/IBM_PCB_Jr_Internal.jpg" alt="IBM PCJr inside from wikimedia" height="200" />|
 | ------------- | ------------- | ------------- |
 
-# PCJr MS-DOS 5.0 Patching
+# Running MS-DOS 5.0 on an IBM PC Junior
 
 This repository contains all you need to patch MS-DOS 5.0 to run on an IBM PCJr. Why this is necessary is very widely documented, but if you would like a brief, 2:35m explanation, check out my YouTube video: [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPIggfu0vP9aWZfYNkmdsYA)](https://www.youtube.com/channel/UCPIggfu0vP9aWZfYNkmdsYA)
 
@@ -13,7 +13,7 @@ This will work best with an SDCard using Raphnet's SDJr cartridge, available at:
 
 You will find the following here:
 
-### /
+### / (root)
 
 In the root directory, you find most of the things you need to create your own media:
 + LICENSE -- The license of this repository (MIT Standard)
